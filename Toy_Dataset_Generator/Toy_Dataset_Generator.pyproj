@@ -27,6 +27,74 @@
   <ItemGroup>
     <InterpreterReference Include="CondaEnv|CondaEnv|Toy_Dataset_Generator" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="data\" />
+    <Folder Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\" />
+    <Folder Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\" />
+    <Folder Include="data\bg_noise_S&amp;P_VS_fg_noise_random\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\0_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\0_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\1_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\1_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\2_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\2_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\3_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\3_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\4_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\4_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\5_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\5_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\6_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\6_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\7_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\7_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\8_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\8_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\9_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_gauss\9_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\0_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\0_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\1_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\1_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\2_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\2_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\3_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\3_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\4_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\4_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\5_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\5_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\6_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\6_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\7_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\7_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\8_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\8_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\9_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_poisson\9_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\0_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\0_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\1_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\1_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\2_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\2_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\3_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\3_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\4_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\4_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\5_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\5_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\6_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\6_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\7_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\7_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\8_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\8_mask.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\9_img.png" />
+    <Content Include="data\bg_noise_S&amp;P_VS_fg_noise_random\9_mask.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
